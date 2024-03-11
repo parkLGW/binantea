@@ -1,7 +1,7 @@
 {
-  "name": "@gavinliu/binatea",
+  "name": "@gavinliu97/binatea",
   "version": "1.0.7",
-  "description": "",
+  "description": "tea test",
   "type": "module",
   "main": "coin_scan_binance.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parkLGW/binantea"
+    "url": "git+https://github.com/parkLGW/binantea.git"
   },
   "website": "https://github.com/parkLGW/binantea.git",
   "keywords": [
@@ -33,5 +33,6 @@
     "@moncici/proxy": "^1.0.3",
     "@moncici/sleep": "^1.0.1",
     "feishu-notifier": "^1.0.3"
-  }
+  },
+  "devDependencies": {}
 }
